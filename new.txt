@@ -1,2 +1,4 @@
 we are creting new file in featl1 bracnh
 we are adding this line on master branch trying to create conflict
+new line added for conflict
+
